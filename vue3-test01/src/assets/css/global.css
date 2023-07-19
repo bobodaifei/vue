@@ -1,0 +1,6 @@
+/* 消除页面自带的空白 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
